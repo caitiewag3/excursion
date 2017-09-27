@@ -1,20 +1,31 @@
+/* "Entire page" */
 * {
   font-family: Verdana, sans-serif;
 }
 /* 'Main Section' */
 body {
   background-color: black;
+  text-align: center;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 p {
-  text-align: center;
   font-size: 16;
   color: Aquamarine;
+}
+/* "Middle Section" */
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
 }
